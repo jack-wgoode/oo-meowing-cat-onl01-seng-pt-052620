@@ -1,5 +1,6 @@
 class Cat 
 
-def   
+def meow
+end
   
 end
